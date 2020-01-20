@@ -1,10 +1,16 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [José Vale]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 19, Sunday, 2020].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Restarting the challenge and finally putting the HTML and CSS knowledge in practice. I am using the #DailyUI tasks to get ideas for projects. The image is the prototype made in @AdobeXD, the code will be available soon in CodePen and GitHub
 
 ### R1D2
+End the Introductions for Basic CSS + Applied Visual Design + Applied Accessibility + Responsive Web Design + CSS Flexbox with @freeCodeCamp. Need to recap Responsive Web Design
+
+### R1D3
+
+
+### R1D4

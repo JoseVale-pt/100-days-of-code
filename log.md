@@ -1,28 +1,68 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
 ### Day 0: January 12, 2020
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
+##### The twitter committment
+I'm publicly committing to the 100DaysOfCode Challenge starting today! 
+Learn More and Join me! https://100DaysOfCode.com #100DaysOfCode
+**Today's Progress**: No progress just giving the first step and its a lot.
+**Thoughts:** 
+Committing to 100 days of code, everyday will not be easy since the "real life" will
+be messing this up for sure, but we have to try, after all humans already go to the moon and trying
+go to Mars now.
+**Link to work:**   [FreeCodeCamp (https://freecodecamp.org)]
+                    [Udemy (https://udemy.com)]
 
 ### Day 1: January 13, 2020
+**Today's Progress**: Learning HTML from freecodecamp
+**Thoughts**: 
+Since its too basic the look and feel of the output code is awfull.
+**Link(s) to work**: 
 
-**Today's Progress**: 
-
+### Day 2: January 14, 2020
+**Today's Progress**: Continue with HTML and finish the HTML chapter in freecodecamp. Start a new ~
+course in Udemy from Angela Yu
 **Thoughts** 
-
+I really wanna build web and desktop apps so i am with energy to do this even knowing 
+that it will be a long long path.
 **Link(s) to work**
 
+### Day 3: January 15, 2020
+**Today's Progress**: More HTML doing some basic code
+**Thoughts** 
+HTML without CSS seems really bad i really need to get CSS as soon as possible.
+**Link(s) to work**
+
+### Day 4: January 17, 2020
+**Today's Progress**: Last 2 days i didnt code or learn anything, Work stuff take over my time
+**Thoughts** 
+Like i said in the beggining to a easy journey, Challenge fail. Let's restart again.
+**Link(s) to work**
+
+### Day 5: January 18, 2020
+**Today's Progress**: Restarting the #100DaysOFCode Challenge. Build my first webpage with HTML and 
+CSS finnaly. Start the CSS learning with freecodecamp. 
+**Thoughts** 
+Ahhhh the power of CSS its starting to look a webpage finnaly and not a webpage from
+the cave era.
+**Link(s) to work**
+
+### Day 6: January 19, 2020
+**Today's Progress**: Finish some chapters in the freecodecamp course and improve my webpage project
+Start using Flexbox. 
+**Thoughts** 
+I am so in love with Flexbox.
+**Link(s) to work**
+
+### Day 7: January 20, 2020
+**Today's Progress**: Didnt code at all today but i feel the need of know how to better use VSCode
+So i spend my learning time today learning more about it. How to use terminal, install extensions 
+and what essential extentions should install. Using source control with GIT. Adjusting some editor
+configurations to code easier.
+**Thoughts** 
+I like VSCode
+**Link(s) to work**
+
+### Day 8: January 21, 2020
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**

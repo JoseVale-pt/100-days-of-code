@@ -67,6 +67,19 @@ I like VSCode
                     
 
 ### Day 8: January 21, 2020
+**Today's Progress**: End the CSS Grid module @freecodecamp, entering the coding time, many projects
+ to complete. Need to build a Tribute page, Survey Form, Product Landing Page, Technical Docum. Page and a 
+Personal Portfolio Webpage. Let the fun begin
+**Thoughts** 
+So all the basis from HTML and CSS are in now lets starting put all this together.
+**Link(s) to work** https://twitter.com/josemariovale/status/1219792736171319302?s=20
+
+### Day 9: January 22, 2020
 **Today's Progress**: 
 **Thoughts** 
-**Link(s) to work**
+**Link(s) to work** 
+
+### Day 10: January 23, 2020
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work** 

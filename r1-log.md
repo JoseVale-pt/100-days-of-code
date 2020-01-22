@@ -19,6 +19,11 @@ JavaScript, React, Node.js. Optimizing settings.JSON to better easier coding. Ho
 Source Control to VSCode with GIT.
 
 ### R1D4
+End the CSS Grid module in @freecodecamp, and entering the coding time many projects to complete.
+Need to build a Tribute page, Survey Form, Product Landing Page, Technical Documentation Page and a
+Personal Portfolio Webpage. Let the fun begin.
 
 ### R1D5
+
+### R1D6
 

@@ -75,11 +75,21 @@ So all the basis from HTML and CSS are in now lets starting put all this togethe
 **Link(s) to work** https://twitter.com/josemariovale/status/1219792736171319302?s=20
 
 ### Day 9: January 22, 2020
+**Today's Progress**: Create a repository in GitHub to gather all things related to this learn to
+code path. Create the initial html files for the FreeCodeCamp projects for the HTML/CSS nodule. Learn
+how to build gitignore file and some tips and best pratices about Git & GitHub
+**Thoughts** 
+Using Source Code is useful no doubt, using Git by terminal its not so friendly, i dont
+know why using terminal is so important to the code community. I prefer using GitHub Desktop and 
+controling Souce Code updates in VSC
+**Link(s) to work** https://github.com/JoseVale-pt/LearnToCode
+
+### Day 10: January 23, 2020
 **Today's Progress**: 
 **Thoughts** 
 **Link(s) to work** 
 
-### Day 10: January 23, 2020
+### Day 11: January 24, 2020
 **Today's Progress**: 
 **Thoughts** 
 **Link(s) to work** 

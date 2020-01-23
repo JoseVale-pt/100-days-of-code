@@ -24,6 +24,11 @@ Need to build a Tribute page, Survey Form, Product Landing Page, Technical Docum
 Personal Portfolio Webpage. Let the fun begin.
 
 ### R1D5
+Create a repository in GitHub to gather all things related to this learn to code path. Create the 
+initial html files for the FreeCodeCamp projects for the HTML/CSS nodule. Learn how to build 
+gitignore file and some tips and best pratices about Git & GitHub
 
 ### R1D6
+
+### R1D7
 

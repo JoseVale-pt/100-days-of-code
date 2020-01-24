@@ -85,11 +85,18 @@ controling Souce Code updates in VSC
 **Link(s) to work** https://github.com/JoseVale-pt/LearnToCode
 
 ### Day 10: January 23, 2020
-**Today's Progress**: 
-**Thoughts** 
-**Link(s) to work** 
+**Today's Progress**: Slow day, i kick off the Tribute Page for FreeCodeCamp Certification, decide
+about the content and starting to layout the base structure. This project going to be all in HTML 
+and CSS. Going try to apply all i can and learn from the past days.
+**Thoughts** Very tired coding/learning every day after a crazy work day its hard.
+**Link(s) to work** https://twitter.com/josemariovale/status/1220525698437218304?s=20
 
 ### Day 11: January 24, 2020
 **Today's Progress**: 
 **Thoughts** 
 **Link(s) to work** 
+
+### Day 12: January 25, 2020
+**Today's Progress**: 
+**Thoughts** 
+**Link(s) to work**

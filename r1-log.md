@@ -28,7 +28,10 @@ Create a repository in GitHub to gather all things related to this learn to code
 initial html files for the FreeCodeCamp projects for the HTML/CSS nodule. Learn how to build 
 gitignore file and some tips and best pratices about Git & GitHub
 
-### R1D6
+### R1D6 
+Slow day, i kick off the Tribute Page for FreeCodeCamp Certification, decide about the content and 
+starting to layout the base structure. This project going to be all in HTML and CSS. 
+Going to try apply all i can and learn from the past days.
 
 ### R1D7
 
